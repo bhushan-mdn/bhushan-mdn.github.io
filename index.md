@@ -1,1 +1,0 @@
-Hello! This is the homepage for my blog.
