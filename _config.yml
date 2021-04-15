@@ -35,6 +35,7 @@ theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 defaults:
   # _posts
