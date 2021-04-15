@@ -31,13 +31,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 #github_username:  jekyll
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+#theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
-remote_theme: mmistakes/minimal-mistakes
+
 
 defaults:
   # _posts
