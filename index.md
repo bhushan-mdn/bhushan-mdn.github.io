@@ -1,6 +1,1 @@
----
-layout: default
-title: Homepage
----
-
-Hello there!
+Hello! This is the homepage for my blog.
