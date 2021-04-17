@@ -47,9 +47,11 @@ defaults:
     values:
       layout: single
       read_time: true
-      # comments: true
-      # share: true
-      # related: true
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 # paginate posts on Homepage
 paginate: 5 # amount of posts to show
