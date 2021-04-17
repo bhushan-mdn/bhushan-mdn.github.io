@@ -14,7 +14,7 @@ After going through the installation, ensure that the `go` command is available 
 ## The Basics
 Let's start by going through the age-old rite of passage for all programmers in a new language, the boring hello world program.
 <br />
-{ % highlight go %}
+{% highlight go %}
 package main
 
 import "fmt"
@@ -22,6 +22,6 @@ import "fmt"
 func main() {
     fmt.Println("hello world")
 }
-{ % endhighlight %}
+{% endhighlight %}
 <br />
 Now, let's look at the code in more detail.
