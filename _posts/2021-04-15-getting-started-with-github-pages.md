@@ -1,9 +1,8 @@
 ---
 layout: single
-title:  "Getting Started with Github Pages"
-date:   2021-04-15 00:00:34 +0530
-categories: github pages
+title:  "Start Page"
+date:   2021-12-26 00:00:00 +0530
+categories: startpage
 ---
-![banner](https://bhushan-mdn.github.io/assets/2021-04-15-getting-started-with-github-pages/banner.png)
 
-Github Pages is a static site hosting service provided by Github.
+This is a start page
